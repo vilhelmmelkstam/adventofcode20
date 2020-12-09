@@ -27,13 +27,7 @@ int main()
         validPassports++;
 
       // Reset field flags
-      byr = 0;
-      iyr = 0;
-      eyr = 0;
-      hgt = 0;
-      hcl = 0;
-      ecl = 0;
-      pid = 0;
+      byr = 0; iyr = 0; eyr = 0; hgt = 0; hcl = 0; ecl = 0; pid = 0;
     }
   }
 
